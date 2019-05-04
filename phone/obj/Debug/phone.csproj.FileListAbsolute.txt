@@ -1,0 +1,40 @@
+C:\Lab\phone\phone\bin\Debug\phone.exe.config
+C:\Lab\phone\phone\bin\Debug\phone.exe
+C:\Lab\phone\phone\bin\Debug\phone.pdb
+C:\Lab\phone\phone\obj\Debug\phone.csprojAssemblyReference.cache
+C:\Lab\phone\phone\obj\Debug\phone.Form1.resources
+C:\Lab\phone\phone\obj\Debug\phone.Properties.Resources.resources
+C:\Lab\phone\phone\obj\Debug\phone.csproj.GenerateResource.cache
+C:\Lab\phone\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+C:\Lab\phone\phone\obj\Debug\phone.exe
+C:\Lab\phone\phone\obj\Debug\phone.pdb
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\bin\Debug\phone.exe.config
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\bin\Debug\phone.exe
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\bin\Debug\phone.pdb
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\obj\Debug\phone.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\obj\Debug\phone.Form1.resources
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\obj\Debug\phone.Properties.Resources.resources
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\obj\Debug\phone.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\obj\Debug\phone.exe
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone\phone\obj\Debug\phone.pdb
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\bin\Debug\phone.exe.config
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\bin\Debug\phone.exe
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\bin\Debug\phone.pdb
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\obj\Debug\phone.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\obj\Debug\phone.Form1.resources
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\obj\Debug\phone.Properties.Resources.resources
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\obj\Debug\phone.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\obj\Debug\phone.exe
+C:\Users\admin\Desktop\phone-20190218T005917Z-001\phone - 複製\phone\obj\Debug\phone.pdb
+C:\Users\errma\Desktop\phone - 通訊錄\phone\bin\Debug\phone.exe.config
+C:\Users\errma\Desktop\phone - 通訊錄\phone\bin\Debug\phone.exe
+C:\Users\errma\Desktop\phone - 通訊錄\phone\bin\Debug\phone.pdb
+C:\Users\errma\Desktop\phone - 通訊錄\phone\obj\Debug\phone.csprojAssemblyReference.cache
+C:\Users\errma\Desktop\phone - 通訊錄\phone\obj\Debug\phone.Form1.resources
+C:\Users\errma\Desktop\phone - 通訊錄\phone\obj\Debug\phone.Properties.Resources.resources
+C:\Users\errma\Desktop\phone - 通訊錄\phone\obj\Debug\phone.csproj.GenerateResource.cache
+C:\Users\errma\Desktop\phone - 通訊錄\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+C:\Users\errma\Desktop\phone - 通訊錄\phone\obj\Debug\phone.exe
+C:\Users\errma\Desktop\phone - 通訊錄\phone\obj\Debug\phone.pdb
